@@ -39,7 +39,8 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:anampetrea99/pet-clinic.git</developerConnection>
+        <url>https://github.com/anampetrea99/pet-clinic</url>
+        <connection>scm:git:https://github.com/anampetrea99/pet-clinic.git</connection>
   </scm>
 
 </project>
